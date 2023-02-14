@@ -13,7 +13,7 @@ I'm Pranav😉 I'm a developer who is passionate about exploring new Tech!
 ### Current Status Quo:
 
 - 💼 I’m pursuing <strong>B Tech</strong>
-- 🔭 I’m currently working on <strong> Web development</strong> and <strong>Machinr learning</strong>.
+- 🔭 I’m currently working on <strong> Web development</strong> and <strong>Machine learning</strong>.
 - 🌱 I’m currently learning <strong>DSA</strong>.
 - 🤔 My research interests are with <strong>Development</strong>
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
